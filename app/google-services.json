@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "188585478848",
+    "project_id": "gpsspeedometer-5f63f",
+    "storage_bucket": "gpsspeedometer-5f63f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:188585478848:android:3b2a8ba47c8776788dbb25",
+        "android_client_info": {
+          "package_name": "com.ist.gps.speedometer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "188585478848-4g5jg9rpgah5sqrqei1fabfjs7021m8g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1JI07ZAqPro6O5dFdYQBn67Y9tl3Vn-s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "188585478848-4g5jg9rpgah5sqrqei1fabfjs7021m8g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
